@@ -1,0 +1,3 @@
+# add names of files or directories that you donot want to track
+*.txt
+*.php
